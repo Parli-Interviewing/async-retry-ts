@@ -3,6 +3,7 @@
 - Run `npm install` to install the dependencies.
 - Run `npm run test` to run the tests in watch mode.
 - Add code to the relevant source code files in the `src` directory and save to re-run the tests.
+- **You DO NOT need to optimize your code! Just get the tests to pass and you're good!**
 - _**Console logs will be printed at the beginning of the test output in the terminal below.**_
 
 # Challenge spec
