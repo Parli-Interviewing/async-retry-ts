@@ -1,6 +1,6 @@
 export const asyncRetry = async <T>(
   fn: () => Promise<T>,
-  limit: number,
+  maxRetryCount: number,
 ): Promise<T> => {
   // Write your code here
 }
